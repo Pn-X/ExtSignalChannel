@@ -1,0 +1,16 @@
+PODS:
+  - ExtSignalChannel (0.0.1)
+
+DEPENDENCIES:
+  - ExtSignalChannel (from `../`)
+
+EXTERNAL SOURCES:
+  ExtSignalChannel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtSignalChannel: 4ffb3c52d8aa3723d8024264cb4bce93b5fccfa1
+
+PODFILE CHECKSUM: 74eef9e2949c4ad10aab49d3e4240eb44077422b
+
+COCOAPODS: 1.9.3
